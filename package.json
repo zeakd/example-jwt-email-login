@@ -30,8 +30,12 @@
     "babel-register": "^6.7.2",
     "del": "^2.2.0",
     "gulp": "^3.9.1",
+    "gulp-mocha": "^2.2.0",
+    "mocha": "^2.4.5",
     "nodemon": "^1.9.1",
-    "run-sequence": "^1.1.5"
+    "run-sequence": "^1.1.5",
+    "should": "^8.3.0",
+    "supertest": "^1.2.0"
   },
   "dependencies": {
     "base64-url": "^1.2.2",
@@ -40,6 +44,8 @@
     "cookie-parser": "^1.4.1",
     "express": "^4.13.4",
     "express-jwt": "^3.3.0",
-    "express-session": "^1.13.0"
+    "express-session": "^1.13.0",
+    "mongoose": "^4.4.10",
+    "nodemailer": "^2.3.0"
   }
 }
