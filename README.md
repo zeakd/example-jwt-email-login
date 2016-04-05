@@ -6,10 +6,10 @@
 ``` json
 {
   "mail": {
-    "user": "user@mail.com"
+    "user": "user@mail.com",
     "pass": "password"
   },
-  "session" {
+  "session": {
     "secret": "secret"
   }
 }
